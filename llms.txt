@@ -1,0 +1,9 @@
+# Skywaters Residences
+
+> Skywaters Residences — Premium property listing in Singapore.
+
+- Canonical Origin: https://singaporenewproperty.github.io/skywatersresidences/
+
+## Pages
+
+- [Skywaters Residences](https://singaporenewproperty.github.io/skywatersresidences/): Skywaters Residences property information.
